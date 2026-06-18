@@ -36,7 +36,7 @@ namespace P12ZadaniePetle
                         licznik++;
 
                     i++; // i = i + 1
-                }
+                } 
 
                 string raport = "Slowo znak '{0}' wystepuje w podanym zdaniu {1} razy";
                 Console.WriteLine(string.Format(raport, wyraz, licznik));
