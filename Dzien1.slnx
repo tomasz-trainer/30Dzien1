@@ -9,4 +9,6 @@
   <Project Path="P08Switch/P08Switch.csproj" Id="bbae18d6-8a67-475b-8c60-d121aded41d9" />
   <Project Path="P09Petle/P09Petle.csproj" Id="a549e730-f2ef-4d80-a80b-53ca63bd3913" />
   <Project Path="P10ZadaniePetle/P10ZadaniePetle.csproj" Id="17db1e70-004e-47b8-91ac-149036916ba2" />
+  <Project Path="P11InnePetle/P11InnePetle.csproj" Id="2361697a-9a57-40a5-bc7b-d7505d748059" />
+  <Project Path="P12ZadaniePetle/P12ZadaniePetle.csproj" Id="da2df8c3-7b0e-4b2f-a7c5-80ed35c20527" />
 </Solution>

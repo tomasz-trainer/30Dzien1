@@ -1,0 +1,4 @@
+Rozbuduj program P10 tak aby:
+
+--po wypisaniu raportu , ponownie pytał o inny szukany wyraz
+-- gdy napiszemy "koniec" program kończy zadanie 

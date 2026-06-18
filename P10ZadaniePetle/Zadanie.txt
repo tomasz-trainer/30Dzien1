@@ -7,3 +7,5 @@ przez użytkownika zdaniu i wyświetlić tę informację na ekranie.
 
 Przykładowa odpowiedź programu dla wprowadzonego zdania "Ala ma kota i ma psa" i
 szukanego wyrazu "ma" powinna brzmieć: "Słowo/znak 'ma' występuje w podanym zdaniu 2 razy".
+
+ 

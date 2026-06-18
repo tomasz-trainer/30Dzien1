@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace P10ZadaniePetle
+namespace P12ZadaniePetle
 {
     internal class Program
     {
@@ -26,15 +26,15 @@ namespace P10ZadaniePetle
             int licznik = 0;
             while (i <= zdanie.Length - wyraz.Length)
             {
-                string podciag = zdanie.Substring(i,wyraz.Length);
-                if(podciag == wyraz)
+                string podciag = zdanie.Substring(i, wyraz.Length);
+                if (podciag == wyraz)
                     licznik++;
-                
+
                 i++; // i = i + 1
             }
 
             string raport = "Slowo znak '{0}' wystepuje w podanym zdaniu {1} razy";
-            Console.WriteLine(string.Format(raport, wyraz, licznik)); 
+            Console.WriteLine(string.Format(raport, wyraz, licznik));
         }
     }
 }
