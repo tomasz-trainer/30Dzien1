@@ -17,3 +17,6 @@ Następnie program powinien obliczyć sumę tych liczb i wyświetlić ją na ekr
 Przykładowy wynik:
 Jeśli użytkownik wprowadził liczby 10 i 200, program powinien wyświetlić następujący wynik:
 "Suma podanych liczb wynosi 210."
+
+
+https://github.com/tomasz-trainer/30Dzien1

@@ -1,0 +1,9 @@
+Napisz program, który poprosi użytkownika o wprowadzenie dowolnego zdania z klawiatury,
+na przykład "Ala ma kota i ma psa". Następnie program powinien poprosić o wprowadzenie 
+dowolnego znaku lub wyrazu, na przykład "ma".
+
+Program powinien zliczyć, ile razy dany znak lub wyraz występuje w podanym 
+przez użytkownika zdaniu i wyświetlić tę informację na ekranie.
+
+Przykładowa odpowiedź programu dla wprowadzonego zdania "Ala ma kota i ma psa" i
+szukanego wyrazu "ma" powinna brzmieć: "Słowo/znak 'ma' występuje w podanym zdaniu 2 razy".

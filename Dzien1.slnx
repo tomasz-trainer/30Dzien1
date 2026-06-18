@@ -1,6 +1,12 @@
 <Solution>
-  <Project Path="P01Wstep/P01Wstep.csproj" />
-  <Project Path="P02OperacjeNaNapisach/P02OperacjeNaNapisach.csproj" />
-  <Project Path="P03WczytywanieDanych/P03WczytywanieDanych.csproj" />
-  <Project Path="P04ZadanieNapisy/P04ZadanieNapisy.csproj" />
+  <Project Path="P01Wstep/P01Wstep.csproj" Id="f37d3be3-5eed-40d7-9874-0016d17d81fc" />
+  <Project Path="P02OperacjeNaNapisach/P02OperacjeNaNapisach.csproj" Id="53fe2d35-4b09-4c0d-8b5e-d12e4ed2da0a" />
+  <Project Path="P03WczytywanieDanych/P03WczytywanieDanych.csproj" Id="5146988a-9d7a-4826-b72a-1737243dc3c0" />
+  <Project Path="P04ZadanieNapisy/P04ZadanieNapisy.csproj" Id="c6d0a3e5-188a-4773-b940-285b9e84e9eb" />
+  <Project Path="P05Debugowanie/P05Debugowanie.csproj" Id="08927eb9-c18c-4758-8227-e7ad766a03e1" />
+  <Project Path="P06Operatory/P06Operatory.csproj" Id="872af0cf-2ff4-4704-8d97-79732734356b" />
+  <Project Path="P07InstrukcjeWarunkowe/P07InstrukcjeWarunkowe.csproj" Id="8d046815-864f-47bd-8dfc-775b403959d6" />
+  <Project Path="P08Switch/P08Switch.csproj" Id="bbae18d6-8a67-475b-8c60-d121aded41d9" />
+  <Project Path="P09Petle/P09Petle.csproj" Id="a549e730-f2ef-4d80-a80b-53ca63bd3913" />
+  <Project Path="P10ZadaniePetle/P10ZadaniePetle.csproj" Id="17db1e70-004e-47b8-91ac-149036916ba2" />
 </Solution>
