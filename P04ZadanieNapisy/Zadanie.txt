@@ -1,0 +1,19 @@
+Część 1:
+Napisz program, który poprosi użytkownika o podanie dwóch liczb
+A i B (po jednej liczbie na raz). 
+Następnie program powinien obliczyć sumę tych liczb i wyświetlić
+ją na ekranie razem z informacją o liczbie cyfr w wyniku.
+
+Przykładowy wynik:
+Jeśli użytkownik wprowadził liczby A=10 i B=200, 
+program powinien wyświetlić następujący raport: 
+"Wynik 210 składa się z 3 cyfr."
+
+
+Część 2:
+Program powinien poprosić użytkownika o podanie dwóch liczb oddzielonych spacją. 
+Następnie program powinien obliczyć sumę tych liczb i wyświetlić ją na ekranie.
+
+Przykładowy wynik:
+Jeśli użytkownik wprowadził liczby 10 i 200, program powinien wyświetlić następujący wynik:
+"Suma podanych liczb wynosi 210."

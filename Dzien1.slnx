@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="P01Wstep/P01Wstep.csproj" />
+  <Project Path="P02OperacjeNaNapisach/P02OperacjeNaNapisach.csproj" />
+  <Project Path="P03WczytywanieDanych/P03WczytywanieDanych.csproj" />
+  <Project Path="P04ZadanieNapisy/P04ZadanieNapisy.csproj" />
+</Solution>
