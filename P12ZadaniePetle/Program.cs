@@ -13,28 +13,34 @@ namespace P12ZadaniePetle
             Console.WriteLine("Wczytaj zdanie");
             string zdanie = Console.ReadLine();
 
-            Console.WriteLine("Wczytaj wyraz");
-            string wyraz = Console.ReadLine();
-
-            //ala ma kota i ma psa
-            //ma
-            //0123456789       19
-
-
-
-            int i = 0;
-            int licznik = 0;
-            while (i <= zdanie.Length - wyraz.Length)
+            while (true)
             {
-                string podciag = zdanie.Substring(i, wyraz.Length);
-                if (podciag == wyraz)
-                    licznik++;
 
-                i++; // i = i + 1
+                Console.WriteLine("Wczytaj wyraz");
+                string wyraz = Console.ReadLine();
+
+                if (wyraz.ToLower() == "koniec")
+                    break;
+
+                //ala ma kota i ma psa
+                //ma
+                //0123456789       19
+
+
+                int i = 0;
+                int licznik = 0;
+                while (i <= zdanie.Length - wyraz.Length)
+                {
+                    string podciag = zdanie.Substring(i, wyraz.Length);
+                    if (podciag == wyraz)
+                        licznik++;
+
+                    i++; // i = i + 1
+                }
+
+                string raport = "Slowo znak '{0}' wystepuje w podanym zdaniu {1} razy";
+                Console.WriteLine(string.Format(raport, wyraz, licznik));
             }
-
-            string raport = "Slowo znak '{0}' wystepuje w podanym zdaniu {1} razy";
-            Console.WriteLine(string.Format(raport, wyraz, licznik));
         }
     }
 }
