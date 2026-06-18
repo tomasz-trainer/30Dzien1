@@ -11,4 +11,5 @@
   <Project Path="P10ZadaniePetle/P10ZadaniePetle.csproj" Id="17db1e70-004e-47b8-91ac-149036916ba2" />
   <Project Path="P11InnePetle/P11InnePetle.csproj" Id="2361697a-9a57-40a5-bc7b-d7505d748059" />
   <Project Path="P12ZadaniePetle/P12ZadaniePetle.csproj" Id="da2df8c3-7b0e-4b2f-a7c5-80ed35c20527" />
+  <Project Path="P13ZadanieKalkulatorBMI/P13ZadanieKalkulatorBMI.csproj" Id="e4bdd329-86d1-4dce-828a-3c0e5f9e8e97" />
 </Solution>
