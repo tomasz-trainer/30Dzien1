@@ -8,8 +8,10 @@ namespace P11InnePetle
 {
     internal class Program
     {
+    
         static void Main(string[] args)
         {
+            int x;
             //1  while 
             while (true)
             {
@@ -47,7 +49,7 @@ namespace P11InnePetle
             {
                 Console.WriteLine(zdanie.Substring(k,1));
             }
-
+            
             // mozemy modyfikowac parametry petli for 
             for (int k = zdanie.Length - 1; k > -1; k--)
             {
